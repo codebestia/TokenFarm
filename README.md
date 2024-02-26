@@ -48,7 +48,7 @@ You'll also need testnet Goerli ETH and FAU or WETH. You can get ETH into your w
 
 You'll also want an [Etherscan API Key](https://etherscan.io/apis) to verify your smart contracts. 
 
-You can add your environment variables to the `.env` file:
+Create a .env file in the contract directory and add your environment variables to the `.env` file:
 
 ```
 export WEB3_INFURA_PROJECT_ID=<PROJECT_ID>
